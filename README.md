@@ -1,6 +1,6 @@
 # belly-button-challenge
 
-In this assignment, you will build an interactive dashboard to explore the Belly Button Biodiversity datasetLinks to an external site., which catalogs the microbes that colonize human navels.
+Welcome to the Bacteria Culture Dashboard, an interactive tool to explore bacterial data through visualizations and insights. This dashboard helps users visualize and understand bacterial cultures using D3.js and Plotly. Whether you're diving into microbiology or just love data visualization, this project has something for you!
 
 The dataset reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare.
 
